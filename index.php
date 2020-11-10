@@ -671,7 +671,7 @@ xammaga omad @DaMaS_BaSS dan sizlar uchun Sovga
 //CoronaVirus 
 if($text=="𝑪𝒐𝒓𝒐𝒏𝒂𝑽𝒊𝒓𝒖𝒔🦠"){
 bot('sendPhoto',[
-'photo'=>"https://t.me/music_mp3_bass/103",
+'photo'=>"https://t.me/Hacker_Bey/45",
 'chat_id'=>$cid,
 'caption'=>"🦠CoronaVirus Statistika Menusiga Kirdingiz!
 Kerakli 📊Statistika📊 ni bosing!⬇️
@@ -2003,7 +2003,7 @@ bot('sendDocument',[
 'document'=>"https://t.me/music_mp3_bass/148",
 'caption'=>"🦠Dunyo Bo'yicha KoronaVirus Parser Kodi!
 Manba bilan oling!
-Kod @Uzfordbot ga Tegishli!
+Kod @Uzb_Coderchikbot ga Tegishli!
 ➖➖➖➖➖
 Kod *@$bot*
 Tomonidan Berildi!",
@@ -2018,7 +2018,7 @@ bot('sendDocument',[
 'document'=>"https://t.me/music_mp3_bass/146",
 'caption'=>"🦠Uzbekistan Bo'yicha KoronaVirus Parser Kodi!
 Manba bilan oling!
-Kod @Uzfordbot ga Tegishli!
+Kod @Uzb_Coderchikbot ga Tegishli!
 ➖➖➖➖➖
 Kod *@$bot*
 Tomonidan Berildi!",
@@ -2042,7 +2042,7 @@ bot('sendDocument',[
 'document'=>"https://t.me/music_mp3_bass/151",
 'caption'=>"💲Dollar Kursi Parser Kodi!
 Manba bilan oling!
-Kod @Uzfordbot ga Tegishli!
+Kod @Uzb_Coderchikbot ga Tegishli!
 ➖➖➖➖➖
 Kod *@$bot*
 Tomonidan Berildi!",
@@ -2066,7 +2066,7 @@ bot('sendDocument',[
 'document'=>"https://t.me/music_mp3_bass/149",
 'caption'=>"🦠Top 3 ta O'rin KoronaVirus Parser Kodi!
 Manba bilan oling!
-Kod @Uzfordbot ga Tegishli!
+Kod @Uzb_Coderchikbot ga Tegishli!
 ➖➖➖➖➖
 Kod *@$bot*
 Tomonidan Berildi!",
@@ -2090,7 +2090,7 @@ bot('sendDocument',[
 'document'=>"https://t.me/music_mp3_bass/145",
 'caption'=>"🕋Namoz Vaqtlari Parser Kodi!
 Manba bilan oling!
-Kod @Uzfordbot ga Tegishli!
+Kod @Uzb_Coderchikbot ga Tegishli!
 ➖➖➖➖➖
 Kod *@$bot*
 Tomonidan Berildi!",
@@ -2105,7 +2105,7 @@ bot('sendDocument',[
 'document'=>"https://t.me/music_mp3_bass/144",
 'caption'=>"📱Telefon Yangiliklari Parser Kodi!
 Manba bilan oling!
-Kod @Uzfordbot ga Tegishli!
+Kod @Uzb_Coderchikbot ga Tegishli!
 ➖➖➖➖➖
 Kod *@$bot*
 Tomonidan Berildi!",
@@ -2119,7 +2119,7 @@ bot('sendDocument',[
 'document'=>"https://t.me/music_mp3_bass/150",
 'caption'=>"⛅Haftalik Ob-Havo Parser Kodi!
 Manba bilan oling!
-Kod @Uzfordbot ga Tegishli!
+Kod @Uzb_Coderchikbot ga Tegishli!
 ➖➖➖➖➖
 Kod *@$bot*
 Tomonidan Berildi!",
@@ -2142,7 +2142,7 @@ if($text=="♨️Bot Tezligi🕹"){
 $start_time = round(microtime(true) * 1000);
       $send=  bot('sendmessage', [
                 'chat_id' => $cid,
-                'text' =>"@Uzfordbot Tezligi:",
+                'text' =>"@Uzb_Coderchikbot Tezligi:",
             ])->result->message_id;
         
                     $end_time = round(microtime(true) * 1000);
@@ -2150,7 +2150,7 @@ $start_time = round(microtime(true) * 1000);
                     bot('editMessagetext',[
                         "chat_id" => $cid,
                         "message_id" => $send,
-                        "text" => "@Uzfordbot Tezligi:" . $time_taken .  "Ms",
+                        "text" => "@Uzb_Coderchikbot Tezligi:" . $time_taken .  "Ms",
                     ]);
 }
 $sevgitest = ["1","67","83","96","82","62","02","90","99","98","97","90","70","80","99","41","97","99","100","99","89","88","37","64","90","72","33","81","7","60","62","71","1","93","90","71","98","99"];
