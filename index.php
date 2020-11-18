@@ -1429,7 +1429,7 @@ bot('sendMessage',[
 }}
 if($text=="♻️𝐅𝐚𝐲𝐥 𝐄𝐝𝐢𝐭♻️"){
 bot('sendPhoto', [
-'photo'=>"https://t.me/music_mp3_bass/143",
+'photo'=>"https://t.me/Hacker_Bey/45",
 'chat_id'=>$cid,
 'caption'=>"Faylingizni Nomini O'zgartirish uchun Rasmni ko'ring!⬆️
 
